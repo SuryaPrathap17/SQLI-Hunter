@@ -5,7 +5,7 @@
 - Clone the git repo
 
 ```
-git clone https://github.com/STRIDER1512/SQLI-Hunter
+git clone https://github.com/SuryaPrathap17/SQLI-Hunter
 
 ```
 
